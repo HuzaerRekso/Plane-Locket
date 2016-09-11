@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pesawat">
+        <item>Garuda Indonesia</item>
+        <item>Sushi Airlines</item>
+        <item>City Link</item>
+        <item>Lion Air</item>
+        <item>Air Asia</item>
+    </string-array>
+</resources>
