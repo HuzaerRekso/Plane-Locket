@@ -120,7 +120,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Hasil2" />
+        android:text="Hasil" />
+
+    <TextView
+        android:id="@+id/textViewHasil3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Hasil" />
+
+    <TextView
+        android:id="@+id/textViewHasil4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Hasil" />
 
 </LinearLayout>
 </ScrollView>
