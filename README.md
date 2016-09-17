@@ -1,6 +1,6 @@
 # Plane-Locket
 Plane-Locket adalah aplikasi pemesanan tiket pesawat yang simple. Aplikasi ini memberikan fitur tambahan yaitu Pelayanan.
-Fitur Pelayanan adalh fitur yang menyediakan layanan tambahan seperti Makanan, pilihan makanan berfungsi ketika user naik pessawat dia akan mendapatkan makanan, sedangkan fitur diantar dan dijemput berfungsi ketika user akan naik pesawat akan dijemput sampai bandara dan akan diantar ke tujuan setelah mendarat di bandara tujuan.
+Fitur Pelayanan adalh fitur yang menyediakan layanan tambahan seperti Makanan, pilihan makanan berfungsi ketika user naik pessawat dia akan mendapatkan makanan, sedangkan fitur diantar dan dijemput berfungsi ketika user akan naik pesawat akan dijemput sampai bandara dan akan diantar ke tujuan setelah mendarat di bandara tujuan. Dan ini adalah link dari apknya yang dapat langsung didownload dari googledrive https://drive.google.com/file/d/0B97rpAVBbI64eC1nYWtpdlVQMHc/view?usp=sharing
 #ScreenShot 
 ![ScreenShot](https://github.com/HuzaerRekso/Plane-Locket/blob/master/PlaneLocket2.PNG "")
 ![ScreenShot](https://github.com/HuzaerRekso/Plane-Locket/blob/master/PlaneLocket1.PNG "")
